@@ -83,3 +83,6 @@ Doing arbitrage calculations, for purposes of demo stopping after 10M iterations
 1 => ZAR -> THB -> DKK -> RUB -> GBP -> NOK -> AUD -> ZAR => 1.0002119256444693
 Arbitrage iterations complete
 ```
+
+#### Changing run configs
+There are a few basic configurations that can be updated in the [lib/configs.js](https://github.com/foomip/arbitrage/blob/master/lib/configs.js) file. Please have a look at the options and comments in this file.
