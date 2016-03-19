@@ -42,7 +42,7 @@ Install the reuired dependencies with the following command
 #### Running the application
 The application can now be run with the command `npm start`. Below is an example of the output produced when running this app
 ```
-npm start
+#> npm start
 
 > arbitrage@1.0.0 start /project/arbitrage
 > node index.js
