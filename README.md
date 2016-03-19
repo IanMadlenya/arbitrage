@@ -47,7 +47,7 @@ npm start
 > arbitrage@1.0.0 start /project/arbitrage
 > node index.js
 
-Please nter a base currency
+Please enter a base currency
 prompt: currency:  zar
 Fetching currency information from api.fixer.io
 ZAR BRL CAD CHF AUD DKK BGN HUF CNY KRW MXN CZK EUR PHP GBP HRK PLN INR HKD JPY USD MYR IDR ILS THB RON RUB TRY NZD SGD SEK NOK
